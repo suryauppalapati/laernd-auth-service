@@ -1,0 +1,28 @@
+{
+  "name": "laernd-auth-service",
+  "version": "1.0.0",
+  "description": "Microservice to handle auth operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suryauppalapati/laernd-auth-service.git"
+  },
+  "keywords": [
+    "[laernd",
+    "laernd-lms]"
+  ],
+  "author": "suryauppalapati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suryauppalapati/laernd-auth-service/issues"
+  },
+  "homepage": "https://github.com/suryauppalapati/laernd-auth-service#readme",
+  "dependencies": {
+    "express": "^4.21.0",
+    "node": "^20.18.0",
+    "nodemon": "^3.1.7"
+  }
+}
